@@ -1,0 +1,66 @@
+.mainmenu{
+	height:60px;
+    background:#ff0000;
+    border:1px solid #CCC;
+  
+    margin:0px auto;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 50px;
+
+}
+.header{
+	height:60px;
+    background:#0000FF;
+    border:1px solid #CCC;
+  
+    margin:0px auto;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 50px;
+
+}
+.content{
+	
+     height: 600px;
+     width: 80%;
+     position: relative;
+     background: #7FFF00;
+     overflow: auto;
+     z-index: 1;
+     text-align: center;
+    vertical-align: center;
+    font-size: 50px;
+    float: left;
+}
+.sidebar{
+	
+     height: 600px;
+     width: 20%;
+     position: relative;
+     background: violet;
+     overflow: auto;
+    
+     text-align: center;
+    vertical-align: center;
+    font-size: 50px;
+    float: right;
+    
+    vertical-align: middle;
+
+}
+.footer{
+	 clear: right;
+	height:60px;
+    background:#B8860B;
+    border:1px solid #CCC;
+  
+    margin:0px auto;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 50px;
+
+}
+body{
+	margin-top:10px;
+}
