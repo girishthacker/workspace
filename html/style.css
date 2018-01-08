@@ -1,0 +1,52 @@
+
+
+thead th{
+	background: red;
+
+
+}
+caption{
+	background:blue;
+	
+	text-align: center;
+	font-size:50px;
+	color: white;
+
+}
+tr.d0 td{
+	background-color: grey;
+	
+}
+tr.d1 td{
+	background-color: grey;
+	
+}
+table{
+	text-align: center;
+}
+tr.d2 td{
+	background-color: grey;
+	
+}
+tr.d3 td{
+	background-color: grey;
+	
+}
+tr.d4 td{
+	background-color: grey;
+	
+}
+td{
+	border: 1px dotted black;
+}
+
+.age-30{
+	color: red;
+}
+
+.age{
+	font-size: 18px;
+	font-style: italic;
+}
+
+
